@@ -53,13 +53,11 @@ function About() {
 
       <h2 className="mt-10 text-xl font-semibold">Contribute to CAPMAP India</h2>
       <p className="mt-2 text-sm leading-relaxed text-foreground/80">
-        CAPMAP India is maintained collaboratively. If a CAP is missing, has been updated, or contains
-        an error on this platform, please write to{" "}
+        If you want to contribute to this dashboard by adding new information, or updating existing information, or have a suggestion for us, please {" "}
         <a href="mailto:work20042026@gmail.com" className="font-medium text-primary underline">
-          work20042026@gmail.com
+          write to
         </a>{" "}
-        with the correction or a link to the source document. New entries can be added for any of the
-        five geographic units above as more CAPs are published.
+        us with the link to the source document, updated information, or your feedback.
       </p>
 
       <div className="mt-12 rounded-lg border-l-4 border-[var(--geo-ward)] bg-muted/50 p-5 text-sm leading-relaxed text-foreground/80">
@@ -67,8 +65,8 @@ function About() {
         The information present is entirely based on review of publicly available Climate Action Plan
         documents, information provided by municipalities or organizations developing the CAP documents,
         and thus does not necessarily reflect the most recent status of progress. If you detect any
-        incorrect information on this page, please contact us at{" "}
-        <a href="mailto:work20042026@gmail.com" className="underline text-primary">work20042026@gmail.com</a>{" "}
+        incorrect information on this page, please {" "}
+        <a href="mailto:work20042026@gmail.com" className="underline text-primary">contact us</a>{" "}
         to amend it.
       </div>
     </div>

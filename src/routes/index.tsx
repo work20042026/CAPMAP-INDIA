@@ -37,7 +37,7 @@ function Home() {
       {/* Page intro */}
       <div className="mx-auto max-w-7xl px-6 pt-8 pb-4">
         <h1 className="text-3xl font-bold tracking-tight md:text-4xl">
-          Published Climate Action Plan Documents
+          Climate Action Plans in India
         </h1>
         <p className="mt-2 max-w-3xl text-sm text-muted-foreground md:text-base">
           Explore India's Climate Action Plans across states, cities, towns, wards and villages.

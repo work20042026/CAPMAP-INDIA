@@ -93,8 +93,8 @@ function SiteHeader() {
             CAP
           </div>
           <div className="leading-tight">
-            <div className="text-[11px] uppercase tracking-[0.18em] text-white/60">CAPMAP</div>
-            <div className="text-lg font-semibold">India · Climate Action Plans</div>
+            <div className="text-[11px] uppercase tracking-[0.18em] text-white/60">CAPMAP INDIA</div>
+            <div className="text-lg font-semibold">Climate Action Plans Dashboard</div>
           </div>
         </Link>
         <nav className="flex items-center gap-1 text-sm">
