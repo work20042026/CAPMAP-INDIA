@@ -6,7 +6,7 @@ import { defineConfig } from "vite";
 export default defineConfig({
   // Tell Vite that the app is hosted at /CAPMAP-INDIA/ 
   // instead of the root of the domain.
-  base: "/CAPMAP-INDIA/",
+  base: "/",
 
   plugins: [
     react(),
