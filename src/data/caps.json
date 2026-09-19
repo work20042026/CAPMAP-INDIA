@@ -673,5 +673,761 @@
         "info": "UCAP/CAP title(s): Net-zero Climate\nResilient City Action Plan 2070\nTirunelveli 2024\nNational/state-plan alignment: Aligned with India NDC 2070, NAPCC Sustainable Habitat, Tamil Nadu policies\nLocal government buy-in: Yes\nCo-benefits: ~800 k green jobs, resilience gains, low-carbon infrastructure\nCo-benefits quantified: Yes – 91% emissions cut; ~$85bn finance need; ~800k jobs across cities\nStakeholders consulted: Yes"
       }
     ]
+  },
+  {
+    "city": "Andhra Pradesh",
+    "lat": 16.5062,
+    "lng": 80.648,
+    "type": "state",
+    "iterations": "2",
+    "year": "2014",
+    "vision": "Climate-resilient and sustainable development, with adaptation mainstreamed across the state's climate-sensitive sectors.",
+    "goals": "Reduce vulnerability to cyclones, floods, drought and heat; strengthen water, agriculture, health and ecosystem resilience; promote low-carbon energy, transport and industry; mainstream climate change into state planning.",
+    "organizations": "Department of Environment, Forest, Science & Technology; Environment Protection Training & Research Institute (EPTRI); State line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Andhra-pradesh-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Energy; Agriculture; Forestry & Biodiversity; Industries/Mining; Transport; Urban Development; Rural Development; Tourism; Health; Coastal Zone Management; Climate Research",
+    "perCapita": "",
+    "climateRisks": "Extreme heat; drought; cyclones; storm surge; sea-level rise; floods; changing rainfall; climate-sensitive disease",
+    "riskFindings": "Coastal districts are exposed to cyclones, storm surge and sea-level rise; Rayalaseema faces persistent drought and heat stress; changing rainfall affects agriculture and water security; climate-sensitive diseases and urban respiratory risks are highlighted.",
+    "strategies": [
+      {
+        "sector": "11 priority sectors under the SAPCC; adaptation and mitigation are integrated through sectoral planning.",
+        "strategy": "Build climate resilience in agriculture, water, coastal areas, forests and health while pursuing low-carbon energy, transport and industrial development.",
+        "action": "Strengthen climate-resilient agriculture and water management; protect coastal ecosystems; improve renewable energy and efficiency; mainstream climate risk into infrastructure and urban/rural planning; strengthen climate research and capacity.",
+        "intervention": "Climate-resilient agriculture; drought/flood management; coastal ecosystem protection; renewable energy and energy efficiency; resilient infrastructure; health surveillance; knowledge and institutional capacity.",
+        "info": "MoEFCC dashboard states that the SAPCC v1.0 was prepared for the pre-2014 undivided Andhra Pradesh; current AP profile covers the present state."
+      }
+    ]
+  },
+  {
+    "city": "Arunachal Pradesh",
+    "lat": 27.0844,
+    "lng": 93.6053,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Sustainable, climate-resilient development that protects the state's Himalayan ecosystems and strengthens livelihoods.",
+    "goals": "Enhance forest carbon sinks and biodiversity resilience; climate-proof agriculture, water and infrastructure; strengthen disaster preparedness and institutional capacity.",
+    "organizations": "Department of Environment & Forests; State Climate Change Cell/Authority; state line departments; technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Arunachal-Pradesh-SAPCC-compressed.pdf",
+    "baseYear": "2005",
+    "totalEmissions": "0.898 MtCO2e",
+    "sectorContribution": "CH4 51%; CO2 46%; N2O 3%",
+    "perCapita": "0.7 tCO2e/person",
+    "climateRisks": "Glacier and water-system sensitivity; cloudbursts; flash floods; landslides; forest-type shifts; biodiversity loss; agricultural stress",
+    "riskFindings": "High-altitude and river-basin systems face glacier-fed water sensitivity, cloudbursts, landslides and flash floods; forest types and biodiversity are projected to be affected; rain-fed agriculture and jhum livelihoods are vulnerable.",
+    "strategies": [
+      {
+        "sector": "8 NAPCC-aligned sector missions with a strong forestry and ecosystem focus.",
+        "strategy": "Enhance forest carbon sinks and ecosystem resilience while climate-proofing agriculture, water, settlements and infrastructure.",
+        "action": "Improve sustainable forest management; restore degraded landscapes; strengthen climate-resilient agriculture and livestock; improve water security; climate-proof roads and services; strengthen disaster preparedness.",
+        "intervention": "Afforestation and assisted natural regeneration; forest-fire management; climate-resilient crops; watershed management; resilient rural connectivity; early warning and capacity building.",
+        "info": "MoEFCC profile estimates forest carbon-sink enhancement potential of about 20.6 MT C/year across 1.747 million ha. | Official SAPCC: total GHG emissions in 2005 = 898 Kt CO2e."
+      }
+    ]
+  },
+  {
+    "city": "Assam",
+    "lat": 26.1445,
+    "lng": 91.7362,
+    "type": "state",
+    "iterations": "2",
+    "year": "2023",
+    "vision": "Climate-resilient and sustainable development that reduces vulnerability while protecting livelihoods and ecosystems.",
+    "goals": "Reduce climate vulnerability of agriculture, water, forests and livelihoods; manage floods and erosion; improve resilience of infrastructure and health; align state action with NDCs and SDGs.",
+    "organizations": "Department of Environment & Forest; Assam Climate Change Management Society (ACCMS); state line departments; technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/assam-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "",
+    "perCapita": "",
+    "climateRisks": "Floods; riverbank erosion; drought; extreme rainfall; heat; biodiversity and livelihood stress",
+    "riskFindings": "About 0.475 million ha is chronically flood-prone and 0.094 million ha drought-prone; the Brahmaputra has eroded about 0.427 million ha since 1950; tea, rice, fisheries and forest-dependent livelihoods are climate-sensitive.",
+    "strategies": [
+      {
+        "sector": "198 prioritised actions across nine thematic sectors in SAPCC 2.0.",
+        "strategy": "Strengthen water and flood management, climate-resilient agriculture and livelihoods, ecosystem conservation and climate-resilient infrastructure.",
+        "action": "Improve flood forecasting and management; strengthen water-use efficiency; climate-resilient crops and fisheries; protect forests/wetlands; strengthen health systems; improve resilient infrastructure and local adaptation.",
+        "intervention": "Flood management; erosion control; climate-resilient agriculture/tea; fisheries adaptation; wetland and forest conservation; resilient infrastructure; early warning and local capacity.",
+        "info": "SAPCC 2.0 covers 2021–2030 and uses district-level vulnerability assessments and climate projections to 2100."
+      }
+    ]
+  },
+  {
+    "city": "Bihar",
+    "lat": 25.5941,
+    "lng": 85.1376,
+    "type": "state",
+    "iterations": "1",
+    "year": "2015",
+    "vision": "Climate-resilient development that safeguards agriculture, water resources, ecosystems, health and livelihoods.",
+    "goals": "Reduce vulnerability to floods, drought and water stress; protect agriculture and biodiversity; improve climate-resilient urban/transport infrastructure; strengthen health and disaster preparedness.",
+    "organizations": "Department of Environment & Forest; State Steering Committee; sectoral Working Groups; UNDP-supported technical process.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Bihar-State-Action-Plan-on-Climate-Change-2-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture & Animal Husbandry; Forests & Biodiversity; Water Resources & Disaster Management; Urban Development & Transport; Industries & Mining; Energy; Human Health",
+    "perCapita": "",
+    "climateRisks": "Floods; drought/water shortages; changing crop seasons; extreme heat; ecosystem and health risks",
+    "riskFindings": "Annual flooding from Himalayan rivers causes major damage to housing, drainage, agriculture and infrastructure; water shortages and crop-season shifts threaten livelihoods; climate change can expand vector-borne disease risks.",
+    "strategies": [
+      {
+        "sector": "Seven focus sectors established through sector-specific Working Groups.",
+        "strategy": "Climate-proof agriculture and water management while strengthening resilient infrastructure, health and disaster management.",
+        "action": "Improve flood and drought management; promote climate-resilient agriculture; protect forests and biodiversity; improve energy efficiency and cleaner energy; climate-proof urban/transport systems.",
+        "intervention": "Flood-resilient infrastructure; drought management; resilient crops; watershed and water conservation; ecosystem protection; climate-health surveillance; resilient urban and transport planning.",
+        "info": "MoEFCC profile identifies agriculture and rural livelihoods as particularly climate-sensitive."
+      }
+    ]
+  },
+  {
+    "city": "Chhattisgarh",
+    "lat": 21.2514,
+    "lng": 81.6296,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Sustainable, climate-resilient development with low-carbon growth and protection of natural resources and vulnerable communities.",
+    "goals": "Reduce climate vulnerability in agriculture, forests, water and health; improve energy and resource efficiency; strengthen resilient infrastructure and disaster preparedness; mainstream climate action into development planning.",
+    "organizations": "Department of Environment; State Climate Change Cell/technical institutions; state line departments; State Steering Committee.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/chhattisgarh-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Forests & Biodiversity; Water; Energy; Industry; Transport; Urban Habitat; Health; Disaster Management",
+    "perCapita": "",
+    "climateRisks": "Heat; drought; floods; rainfall variability; forest and biodiversity stress; health risks",
+    "riskFindings": "Climate impacts affect water resources, agriculture, forests, biodiversity and human health; changing rainfall and temperature can increase drought/flood risk and pressure on natural-resource-dependent livelihoods.",
+    "strategies": [
+      {
+        "sector": "Revised SAPCC 2.0 covers multiple adaptation and mitigation sectors under the MoEFCC framework.",
+        "strategy": "Combine ecosystem-based adaptation and resilient livelihoods with energy efficiency, renewable energy and low-carbon development.",
+        "action": "Strengthen drought/flood-resilient agriculture; improve water conservation; protect forests; improve energy efficiency and cleaner energy; climate-proof infrastructure; strengthen health and disaster systems.",
+        "intervention": "Watershed development; resilient agriculture; forest restoration; renewable/efficient energy; resilient settlements and infrastructure; early warning and disaster preparedness.",
+        "info": "MoEFCC lists Chhattisgarh SAPCC 2.0 as prepared in 2024."
+      }
+    ]
+  },
+  {
+    "city": "Goa",
+    "lat": 15.4909,
+    "lng": 73.8278,
+    "type": "state",
+    "iterations": "2",
+    "year": "2022",
+    "vision": "Sustainable, climate-resilient and low-carbon development that protects coastal and ecological assets.",
+    "goals": "Increase resilience to heat, extreme rainfall and sea-level rise; protect coastal and forest ecosystems; improve water, waste, energy and transport systems; align climate action with NDCs and SDGs.",
+    "organizations": "Department of Environment & Climate Change; Goa State Biodiversity Board; State Level Steering Committee; state departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/goa-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Water; Agriculture; Forests & Biodiversity; Energy; Urban Habitat; Health; Tourism; Coastal/Marine; Disaster Management",
+    "perCapita": "",
+    "climateRisks": "Heatwaves; extreme rainfall; floods; sea-level rise; coastal erosion/salinity; ecosystem stress",
+    "riskFindings": "Mean annual temperature has risen by more than 1°C since 1901; heavy rainfall events have more than doubled; sea level at Mormugao is rising; heatwaves above 40°C are projected to increase.",
+    "strategies": [
+      {
+        "sector": "Nine priority sectors in SAPCC 2.0.",
+        "strategy": "Protect coastal and natural systems while transitioning infrastructure, energy, mobility, water and waste systems toward climate resilience and lower emissions.",
+        "action": "Strengthen coastal resilience; conserve biodiversity; improve water security and drainage; expand renewable energy and efficiency; climate-resilient tourism and health; improve waste management.",
+        "intervention": "Coastal ecosystem restoration; rainwater/water conservation; renewable energy; efficient buildings and mobility; resilient tourism; disaster preparedness.",
+        "info": "SAPCC 2.0 is for a 10-year cycle and has a proposed outlay of about ₹2,341 crore."
+      }
+    ]
+  },
+  {
+    "city": "Gujarat",
+    "lat": 23.2156,
+    "lng": 72.6369,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Build a sustainable and climate-resilient Gujarat while enabling a low-carbon pathway for economic growth with equity and inclusiveness.",
+    "goals": "Reduce climate vulnerability; scale renewable energy and efficiency; strengthen water, agriculture, coastal and urban resilience; integrate climate action into state policies and budgets.",
+    "organizations": "Climate Change Department; 26 state line departments; State Steering Committee; technical and knowledge partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/gujarat-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Energy; Agriculture; Water; Forests & Biodiversity; Industry; Transport; Urban Habitat; Health; Coastal/Disaster Risk",
+    "perCapita": "",
+    "climateRisks": "Extreme heat; drought/water stress; heavy rainfall and flooding; coastal hazards; changing temperature and rainfall",
+    "riskFindings": "Temperature is projected to rise substantially under high-emissions scenarios; heavy rainfall is concentrated in southern districts; hot nights and hot days are projected to increase.",
+    "strategies": [
+      {
+        "sector": "Nine sectors with prioritised mitigation and adaptation actions and department-wise implementation.",
+        "strategy": "Accelerate low-carbon growth while strengthening resilience of water, agriculture, cities, coasts and ecosystems.",
+        "action": "Expand renewables and energy efficiency; improve water-use efficiency; climate-resilient agriculture; protect forests/coasts; resilient urban infrastructure; clean transport and industry.",
+        "intervention": "Solar/renewable energy; efficient industry and buildings; water conservation/reuse; resilient agriculture; coastal protection; urban greening; clean mobility.",
+        "info": "The MoEFCC profile notes more than 110 state policies consolidated in the revised SAPCC and cumulative avoided emissions of 379 MtCO₂e during 2005–2018."
+      }
+    ]
+  },
+  {
+    "city": "Haryana",
+    "lat": 30.7333,
+    "lng": 76.7794,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient, low-carbon development aligned with India's NDCs and sustainable development priorities.",
+    "goals": "Reduce climate risks to agriculture, water, forests and health; improve energy efficiency and clean energy; strengthen resilient urban and rural infrastructure; mainstream adaptation and mitigation.",
+    "organizations": "Department of Environment, Forest & Wildlife; State Climate Change Cell/Working Groups; GIZ and technical partners; line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/haryana-sapcc-2.0.pdf",
+    "baseYear": "2005",
+    "totalEmissions": "",
+    "sectorContribution": "Per-capita GHG emissions = 2.0 tCO2e/person; GHG emissions increased at 4.9% CAGR (1990–2005)",
+    "perCapita": "2.0 tCO2e/person",
+    "climateRisks": "Heatwaves; drought; water stress; rainfall variability; agricultural and health risks",
+    "riskFindings": "Rising heat and changing rainfall threaten agriculture, water availability and human health; climate-sensitive sectors require adaptation alongside mitigation.",
+    "strategies": [
+      {
+        "sector": "73 prioritised actions across seven vulnerable sectors, organised under eight Working Groups.",
+        "strategy": "Integrate climate resilience into agriculture, water, energy, health and infrastructure while reducing emissions from major sectors.",
+        "action": "Improve irrigation and water-use efficiency; climate-resilient agriculture; strengthen heat-health action; expand renewable energy and efficiency; resilient urban infrastructure; protect forests.",
+        "intervention": "Micro-irrigation and water conservation; heat-health preparedness; renewable energy; efficient buildings/industry; resilient agriculture; afforestation and urban greening.",
+        "info": "Revised SAPCC Phase-2 covers 2021–2030 with a stated budget of ₹39,371.80 crore. | Official SAPCC reports district-level GHG emissions for 2005–06 and per-capita emissions; no single total is stated in the retrieved text."
+      }
+    ]
+  },
+  {
+    "city": "Himachal Pradesh",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient development that protects Himalayan ecosystems, livelihoods and infrastructure.",
+    "goals": "Strengthen resilience of water, forests, agriculture, health, tourism and infrastructure; reduce climate-related disaster losses; improve energy efficiency and low-carbon development.",
+    "organizations": "Department of Environment, Science & Technology; Himachal Pradesh Knowledge Cell on Climate Change; GIZ; state departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/himachal-pradesh-sapcc-2.0.pdf",
+    "baseYear": "2009",
+    "totalEmissions": "10.083 MtCO2e",
+    "sectorContribution": "Energy: 6.064 MtCO2e (derived from 3.214 Mt = 52.99%); Industry: 5.486 MtCO2e; Transport: 0.667 MtCO2e; Agriculture: 0.165 MtCO2e; Captive power: 0.358 MtCO2e",
+    "perCapita": "~0.67% of India total; per-capita not stated in source",
+    "climateRisks": "Landslides; floods; cloudbursts; drought/water stress; forest fires; changing snowfall/glacier conditions; ecosystem stress",
+    "riskFindings": "Mountain hazards and changing precipitation threaten water resources, agriculture, forests, settlements, roads and tourism; disaster resilience is a central concern.",
+    "strategies": [
+      {
+        "sector": "53 priority activities across eight sectors for 2021–2030.",
+        "strategy": "Build resilient Himalayan ecosystems and climate-proof infrastructure and livelihoods while improving low-carbon development.",
+        "action": "Strengthen watershed and spring management; climate-resilient agriculture/horticulture; forest-fire and ecosystem management; resilient roads and settlements; climate-health and disaster preparedness.",
+        "intervention": "Spring-shed and watershed restoration; resilient crops; forest restoration/fire management; disaster-resilient infrastructure; early warning; energy efficiency.",
+        "info": "MoEFCC profile reports ₹10,916.7 crore total budget for the 2021–2030 strategy. | Official HPSAPCC material states a state GHG inventory of 10.083 MtCO2e annually for base year 2009. Sector figures are reported separately in the SAPCC."
+      }
+    ]
+  },
+  {
+    "city": "Jharkhand",
+    "lat": 23.3441,
+    "lng": 85.3096,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Achieve economic growth, poverty alleviation and enhanced livelihood opportunities while ensuring environmental sustainability.",
+    "goals": "Reduce climate vulnerability of natural-resource-dependent communities; strengthen agriculture, forests, water and health; improve energy and industrial resilience; mainstream climate change into development.",
+    "organizations": "Department of Environment & Forest; State Steering Committee; State Advisory Group; UNDP-supported process; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Jharkhand-compressed.pdf",
+    "baseYear": "1990 / 1995",
+    "totalEmissions": "51.80 MtCO2e (1990); 56.11 MtCO2e (1995)",
+    "sectorContribution": "District-level totals in Annexure 2; state total 51.8 MtCO2e in 1990 and 56.11 MtCO2e in 1995",
+    "perCapita": "",
+    "climateRisks": "Heat; drought; rainfall variability; forest/ecosystem stress; water stress; mining-related vulnerability",
+    "riskFindings": "Temperature rise and changing rainfall threaten water, forests and agriculture; mining and thermal power increase resource pressures; rural and tribal livelihoods are particularly exposed.",
+    "strategies": [
+      {
+        "sector": "Nine sectors under the original SAPCC.",
+        "strategy": "Link climate resilience with livelihood security, natural-resource conservation and sustainable economic development.",
+        "action": "Improve water security; climate-resilient agriculture; sustainable forest management; improve energy and industrial efficiency; resilient infrastructure; strengthen health and disaster preparedness.",
+        "intervention": "Watershed development; resilient agriculture; forest conservation; efficient/clean energy; mine-land restoration; resilient infrastructure and health systems.",
+        "info": "MoEFCC records the original SAPCC as developed through a State Steering Committee and State Advisory Group in 2011–2013. | Official SAPCC Annexure 2 (Garg & Shukla, 2002) gives state total GHG emissions for 1990 and 1995."
+      }
+    ]
+  },
+  {
+    "city": "Karnataka",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Green-growth, climate-resilient development aligned with India's NDCs and SDGs.",
+    "goals": "Reduce emissions while improving resilience of agriculture, water, forests, health and infrastructure; promote clean energy, sustainable transport and climate-smart economic development.",
+    "organizations": "Environment Management & Policy Research Institute (EMPRI); Department of Forest, Ecology & Environment; IISc; CSTEP; TERI; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/karnataka-sapcc-2.0.pdf",
+    "baseYear": "2010 / 2011 assessment",
+    "totalEmissions": "80.16 MtCO2e/year",
+    "sectorContribution": "CO2: 58.77 Mt; CH4: 18.61 MtCO2e; N2O: 2.64 MtCO2e; Table 9 reports sectoral inventory",
+    "perCapita": "",
+    "climateRisks": "Heat; drought; water stress; intense rainfall/flooding; forest and ecosystem stress; health risks",
+    "riskFindings": "Observed warming and changing rainfall are projected to continue; high-intensity rainfall events may increase while drought patterns change, creating risks for agriculture and water.",
+    "strategies": [
+      {
+        "sector": "Nine sectors in the revised SAPCC.",
+        "strategy": "Adopt a green-growth pathway combining emissions reduction with climate resilience across economic and natural-resource sectors.",
+        "action": "Expand renewable energy and efficiency; decarbonise transport/industry; improve water-use efficiency; climate-smart agriculture; protect forests; strengthen climate-health systems.",
+        "intervention": "Renewables and energy efficiency; electric/clean mobility; climate-smart farming; watershed management; forest restoration; resilient fisheries and health systems.",
+        "info": "MoEFCC profile states the revised SAPCC uses district-level projections from a bias-corrected ensemble of 15 CORDEX models. | Official Karnataka SAPCC 1st Assessment reports 80.02 MtCO2e in Table 8, with 80.16 MtCO2e in Table 9; difference attributed to rounding."
+      }
+    ]
+  },
+  {
+    "city": "Kerala",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Enhance adaptive capacity, strengthen resilience and reduce vulnerability of natural and socio-economic systems through inclusive and participatory action.",
+    "goals": "Strengthen resilience to floods, landslides, coastal hazards and heat; protect ecosystems and water resources; reduce emissions from energy, transport, industry, buildings and agriculture.",
+    "organizations": "Directorate of Environment & Climate Change (DoECC); Government of Kerala; 220 nodal officers from 91 departments; GIZ India; CSTEP.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/kerala-sapcc-2.0.pdf",
+    "baseYear": "2007",
+    "totalEmissions": "50.08 MtCO2e (estimated)",
+    "sectorContribution": "SAPCC 1.0: estimated using India 2007 per-capita emissions of 1.5 tCO2e and Kerala 2011 population; notes actual emissions could be lower",
+    "perCapita": "1.5 tCO2e/person (India basis used for estimate)",
+    "climateRisks": "Floods; landslides; coastal erosion/sea-level rise; extreme rainfall; heat; drought/water stress",
+    "riskFindings": "Mean annual temperature has risen; rainfall is projected to increase across districts; Wayanad, Malappuram and Thrissur show high projected rainfall changes; floods and landslides are major risks.",
+    "strategies": [
+      {
+        "sector": "Revised SAPCC 2023–2030 uses the MoEFCC Common Framework and integrates adaptation and mitigation.",
+        "strategy": "Strengthen resilience of natural and socio-economic systems while reducing emissions through clean energy, efficient transport, buildings, industry and resource management.",
+        "action": "Climate-resilient agriculture; water and watershed management; ecosystem restoration; resilient settlements; low-carbon energy/transport/industry; climate-health action.",
+        "intervention": "Nature-based solutions; watershed/spring management; resilient agriculture; renewable energy; energy-efficient buildings; clean mobility; disaster preparedness.",
+        "info": "Kerala's official climate portal separately publishes a state GHG inventory; the SAPCC should be paired with that inventory for emissions fields. | Official Kerala SAPCC 1.0 gives an estimated 50.08 MtCO2e for Kerala using the national 2007 per-capita figure; SAPCC 2.0 later discusses GHGPI sectoral assessments and inventory gaps."
+      }
+    ]
+  },
+  {
+    "city": "Madhya Pradesh",
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient and low-carbon development aligned with NDCs, SDGs and national missions.",
+    "goals": "Reduce vulnerability to heat, drought and rainfall variability; strengthen water, agriculture and ecosystems; improve energy efficiency and renewable energy; mainstream climate action across sectors.",
+    "organizations": "Department of Environment; State Knowledge Management Centre on Climate Change (SKMCCC), EPCO; state departments; technical knowledge partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Madhya-Pradesh-01-compressed.pdf",
+    "baseYear": "2005 / 2015",
+    "totalEmissions": "99.3 MtCO2e (2005); 173.3 MtCO2e (2015)",
+    "sectorContribution": "Energy is largest source, followed by AFOLU; CO2: 68.15 Mt (2005), 140.84 Mt (2015); CH4: 1.30, 1.26 Mt; N2O: 0.01, 0.02 Mt",
+    "perCapita": "",
+    "climateRisks": "Heat; drought; rainfall variability; floods; forest and biodiversity stress; water scarcity",
+    "riskFindings": "Rainfall varies strongly across the state; western and northern districts are relatively dry; vulnerability assessment uses CORDEX RCP 4.5/8.5 scenarios.",
+    "strategies": [
+      {
+        "sector": "Nine sectors in SAPCC v2.0.",
+        "strategy": "Build climate resilience in water, agriculture, ecosystems and settlements while pursuing low-carbon energy and resource efficiency.",
+        "action": "Climate-smart agriculture; water conservation and efficient irrigation; forest restoration; renewable energy and efficiency; resilient urban infrastructure; disaster preparedness.",
+        "intervention": "Watershed development; drought-resilient crops; renewable energy; efficient buildings/industry; forest and biodiversity conservation; resilient infrastructure.",
+        "info": "MoEFCC profile notes SAPCC v2.0 updates the 2012–13 plan and follows the revised national framework. | SAPCC 2.0 contains these state GHG estimates; the retrieved document is marked draft for consultation."
+      }
+    ]
+  },
+  {
+    "city": "Maharashtra",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Build a climate-resilient and prosperous Maharashtra while enabling a green-growth transition and protecting vulnerable communities.",
+    "goals": "Enhance adaptive capacity; reduce climate risk from heatwaves, drought, floods, unseasonal rainfall and cyclones; support affordable clean-energy technologies; strengthen mitigation, adaptation and climate finance.",
+    "organizations": "Environment & Climate Change Department; State Climate Action Cell; Chief Minister's Council on Climate Change; State Steering Committee on Climate Change; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/maharashtra-sapcc-2.0.pdf",
+    "baseYear": "Latest SAPCC baseline period: last 15 years; exact base year not stated in profile",
+    "totalEmissions": "290 MtCO2e",
+    "sectorContribution": "Energy 82.13%; IPPU 7.66%; AFOLU 6.16%; Waste 4.05%",
+    "perCapita": "",
+    "climateRisks": "Not reported as a single comparable total in the SAPCC profile",
+    "riskFindings": "Heatwaves; unseasonal rainfall; flash floods; drought; cyclones; water stress; ecosystem and livelihood risks",
+    "strategies": [
+      {
+        "sector": "The revised plan identifies increasing extreme weather events, including heatwaves, unseasonal rainfall, flash floods, droughts and cyclones. Vulnerability varies across drought-prone, coastal and urbanising regions.",
+        "strategy": "Eight core sectors, two cross-cutting areas and additional sectoral coverage for industry, transport, tribal development and tourism.",
+        "action": "Build resilience and support a green-energy transition while mainstreaming climate action across state development and finance.",
+        "intervention": "Strengthen climate-resilient agriculture and water management; protect forests and biodiversity; improve health and disaster preparedness; accelerate clean energy; climate-proof habitats, tourism, industry and transport.",
+        "info": "Water conservation; climate-smart agriculture; ecosystem restoration; clean energy; resilient infrastructure; heat-health systems; disaster preparedness; climate finance. | Official Maharashtra State Climate Action Cell/SAPCC profile reports emissions reaching 290 MtCO2e, an 80% rise over the preceding 15 years."
+      }
+    ]
+  },
+  {
+    "city": "Manipur",
+    "lat": 24.817,
+    "lng": 93.9368,
+    "type": "state",
+    "iterations": "1",
+    "year": "2013",
+    "vision": "Climate-resilient development that protects hill and valley ecosystems, water resources and climate-sensitive livelihoods.",
+    "goals": "Reduce vulnerability of agriculture, forests, water and health; strengthen ecosystem and biodiversity resilience; improve energy and habitat resilience; integrate traditional institutions in adaptation.",
+    "organizations": "Directorate of Environment; Department of Forests & Environment; Sectoral Working Group Committee; state line departments; hill councils/ULBs/PRIs.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Manipur1-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Forests & Biodiversity; Water; Energy; Sustainable Habitat; Health; Strategic Knowledge; Disaster/Resilience",
+    "perCapita": "",
+    "climateRisks": "Changing rainfall; heat; floods; landslides; ecosystem/biodiversity stress; water and livelihood risks",
+    "riskFindings": "Hill and valley ecosystems have distinct climate sensitivities; Loktak Lake and freshwater systems face stress; jhum and rain-fed agriculture, livestock and bamboo livelihoods are vulnerable.",
+    "strategies": [
+      {
+        "sector": "Eight NAPCC-aligned State Missions.",
+        "strategy": "Protect ecosystems and climate-sensitive livelihoods while strengthening water, agriculture, habitat, health and local adaptation capacity.",
+        "action": "Climate-resilient agriculture and livestock; watershed and wetland protection; forest conservation; resilient settlements; health preparedness; community-based adaptation.",
+        "intervention": "Loktak/wetland conservation; resilient crops; bamboo-based livelihoods; watershed management; ecosystem restoration; community institutions and early warning.",
+        "info": "MoEFCC currently lists Manipur's v1.0 as prepared; revision status should be updated if/when the revised plan is formally approved."
+      }
+    ]
+  },
+  {
+    "city": "Meghalaya",
+    "lat": 25.5788,
+    "lng": 91.8933,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient, sustainable development that protects forests, water, biodiversity and climate-sensitive livelihoods.",
+    "goals": "Strengthen resilience of agriculture, water, forests, health, tourism and disaster systems; improve energy efficiency and clean energy; integrate local institutions in adaptation.",
+    "organizations": "Meghalaya Basin Development Authority; Meghalaya Climate Change Centre; 29-member Core Group; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/meghalaya-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture & Allied; Water; Forest & Biodiversity; Energy; Urban Habitat; Human Health; Tourism; Disaster Management",
+    "perCapita": "",
+    "climateRisks": "Heavy rainfall; floods; drought; heat; forest fires; biodiversity loss; mining-related ecosystem stress",
+    "riskFindings": "Erratic rainfall and increasing heavy-rain events raise flood risk; forest fires are a growing concern; about 77% of the population depends directly on climate-sensitive sectors.",
+    "strategies": [
+      {
+        "sector": "Eight priority sectors in SAPCC 2.0.",
+        "strategy": "Strengthen ecosystem-based adaptation and resilient livelihoods while improving energy, urban and tourism systems.",
+        "action": "Improve watershed and water security; climate-resilient agriculture; forest-fire and biodiversity management; resilient health/tourism; improve urban systems and disaster preparedness.",
+        "intervention": "Spring/watershed management; climate-smart agriculture; forest-fire management; ecosystem restoration; renewable/efficient energy; resilient tourism and health systems.",
+        "info": "MoEFCC reports a total SAPCC 2.0 budget of ₹9,261.75 crore."
+      }
+    ]
+  },
+  {
+    "city": "Mizoram",
+    "lat": 23.7271,
+    "lng": 92.7176,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Sustainable, climate-resilient development of fragile hill, forest and freshwater ecosystems.",
+    "goals": "Reduce climate vulnerability in agriculture, livestock and fisheries; protect forests and biodiversity; improve water, health, energy and habitat resilience; strengthen climate knowledge.",
+    "organizations": "Department/Directorate of Science & Technology; Climate Change Council; Executive Council; state departments; MoEF-GIZ/technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/MIZORAM-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Animal Husbandry; Fisheries; Forests & Biodiversity; Water; Energy; Habitat; Health; Strategic Knowledge",
+    "perCapita": "",
+    "climateRisks": "Rainfall deficiency; forest-type shifts; biodiversity loss; jhum-related land degradation; water/sanitation and disease risks",
+    "riskFindings": "Climate stress affects mountain, freshwater and forest ecosystems; 20.64% of the state has experienced land degradation associated with destructive jhum; agriculture and health are highly climate-sensitive.",
+    "strategies": [
+      {
+        "sector": "Nine State Missions in SAPCC v1.0.",
+        "strategy": "Reduce ecosystem and livelihood vulnerability through sustainable land, water and forest management and climate-resilient development.",
+        "action": "Promote sustainable agriculture and alternatives to damaging jhum cycles; protect forests; improve water/sanitation; strengthen health and energy systems.",
+        "intervention": "Wetland rice cultivation; agroforestry; forest conservation; water supply/sanitation; renewable energy; climate-health surveillance; community capacity.",
+        "info": "MoEFCC profile highlights Wetland Rice Cultivation and alternatives to jhum as key adaptation approaches."
+      }
+    ]
+  },
+  {
+    "city": "Nagaland",
+    "lat": 25.6751,
+    "lng": 94.1086,
+    "type": "state",
+    "iterations": "1",
+    "year": "2013",
+    "vision": "An inclusive, sustainable and climate-resilient low-carbon development pathway that protects poor and vulnerable communities.",
+    "goals": "Prioritise mitigation and adaptation across agriculture, forests, water, energy, habitat, health and knowledge; strengthen local and community institutions.",
+    "organizations": "Forest Department; State Steering Committee; state line departments; NECCAP/KfW; IISc Bangalore and technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Nagaland-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Sustainable Agriculture; Forest Resources & Biodiversity; Health; Strategic Knowledge; Water; Energy; Sustainable Habitat; Disaster/Resilience",
+    "perCapita": "",
+    "climateRisks": "Mountain ecosystem stress; biodiversity loss; water and agriculture risks; landslides/floods; infrastructure/access constraints",
+    "riskFindings": "Rapid climate-zone shifts occur across steep terrain; fragile mountain ecosystems face biodiversity, water and agriculture risks; sparse infrastructure constrains adaptation.",
+    "strategies": [
+      {
+        "sector": "Eight priority sectors; SAPCC 2.0 strengthens adaptation and mitigation planning.",
+        "strategy": "Develop inclusive, climate-resilient and low-carbon pathways suited to mountain ecosystems and dispersed settlements.",
+        "action": "Climate-smart agriculture; forest and biodiversity conservation; water security; renewable energy/efficiency; resilient habitat and infrastructure; health and knowledge systems.",
+        "intervention": "Agroforestry and resilient crops; forest restoration; watershed management; renewable energy; resilient roads/services; local early warning and capacity.",
+        "info": "The Nagaland government-hosted SAPCC 2.0 explicitly calls for inclusive, sustainable and climate-resilient low-carbon development and protection of poor/vulnerable groups."
+      }
+    ]
+  },
+  {
+    "city": "Odisha",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient and low-carbon development that protects vulnerable communities, ecosystems and coastal assets.",
+    "goals": "Strengthen resilience to cyclones, floods, heat and sea-level rise; climate-proof agriculture, water, health and infrastructure; reduce emissions and strengthen coastal/disaster management.",
+    "organizations": "Climate Change Cell; Department of Forest, Environment & Climate Change; state line departments; technical partners including CII.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/odisha-sapcc-2.0.pdf",
+    "baseYear": "2010–2015 / 2015–2020",
+    "totalEmissions": "98.52 MtCO2e net (2015–2020); 78.68 MtCO2e net (2010–2015)",
+    "sectorContribution": "2015–2020: Industry/Transport/Energy 109.77 Mt; Agriculture 25.07 Mt; Waste 0.66 Mt; LULUCF -36.9 Mt; subtotal 135.49 Mt",
+    "perCapita": "2.35 tCO2e/person (2015–2020)",
+    "climateRisks": "Cyclones; sea-level rise; coastal inundation; heatwaves; floods; drought/water stress; vector- and water-borne disease",
+    "riskFindings": "480 km coastline is cyclone-exposed; several coastal ecosystems face permanent-inundation risk by 2050; 30–40% of districts experience >45°C temperatures during March–June; all districts are heat-stress-prone.",
+    "strategies": [
+      {
+        "sector": "12 sectors including NAPCC missions plus state-led Health and Coastal & Disaster Risk Management.",
+        "strategy": "Combine climate-resilient infrastructure and ecosystems with low-carbon energy, industry, transport and resource management.",
+        "action": "Strengthen cyclone/flood preparedness; climate-smart agriculture; water security; coastal ecosystem restoration; heat-health action; renewable energy and efficiency.",
+        "intervention": "Early warning and cyclone shelters; resilient agriculture; coastal/mangrove restoration; water conservation; renewable energy; efficient industry/transport; heat-health systems.",
+        "info": "MoEFCC profile reports the 2012 sectoral emissions figures and per-capita emissions; net total above is a derived value, not a directly quoted SAPCC total. | Official MoEFCC SAPCC profile and Odisha SAPCC report provide sectoral and net totals."
+      }
+    ]
+  },
+  {
+    "city": "Punjab",
+    "lat": 30.7333,
+    "lng": 76.7794,
+    "type": "state",
+    "iterations": "2",
+    "year": "2022",
+    "vision": "Climate-resilient and sustainable development that protects agriculture, water, ecosystems and vulnerable communities.",
+    "goals": "Reduce heat and water stress; strengthen climate-resilient agriculture and groundwater management; improve energy efficiency and clean energy; strengthen health and ecosystem resilience.",
+    "organizations": "Directorate of Environment & Climate Change; Punjab State Council for Science & Technology; State Climate Change Knowledge Centre; line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/punjab-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Water; Forests; Energy; Industry; Transport; Health",
+    "perCapita": "",
+    "climateRisks": "Extreme heat; drought/water stress; changing rainfall; agricultural risks; air pollution/health",
+    "riskFindings": "Days above 40°C have increased substantially; rainfall shows a declining historical trend; future warming is projected across the state, with strong implications for agriculture and water.",
+    "strategies": [
+      {
+        "sector": "Seven State Missions aligned with NAPCC.",
+        "strategy": "Shift Punjab toward climate-resilient agriculture and water management while reducing energy and emissions intensity.",
+        "action": "Promote crop diversification and water-efficient agriculture; conserve groundwater; expand renewable energy and efficiency; strengthen heat-health and ecosystem management.",
+        "intervention": "Micro-irrigation; crop diversification; groundwater recharge; solar/renewable energy; energy-efficient pumps; heat-health preparedness; afforestation.",
+        "info": "MoEFCC profile reports SAPCC 2.0 for 2021–2030 and district-level vulnerability assessment."
+      }
+    ]
+  },
+  {
+    "city": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Sustainable development with climate resilience in an arid and water-stressed state.",
+    "goals": "Reduce vulnerability to water scarcity, drought and heat; strengthen agriculture, livestock and desert ecosystems; improve energy efficiency and renewable energy; mainstream climate resilience.",
+    "organizations": "Department of Environment & Forests; TERI; GIZ; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Rajasthan-compressed.pdf",
+    "baseYear": "1990 / 1995 / 2018–19",
+    "totalEmissions": "38.0 MtCO2e (1990); 52.2 MtCO2e (1995)",
+    "sectorContribution": "1990: CO2 18.6 Mt, CH4 827.9 kt, N2O 6.6 kt; 1995: CO2 27.0 Mt, CH4 1,044 kt, N2O 10.5 kt. Revised SAPCC uses 2018–19 as base year for emissions profiling.",
+    "perCapita": "",
+    "climateRisks": "Drought; extreme heat; water scarcity; rainfall variability; desertification; ecosystem and livestock stress",
+    "riskFindings": "Arid climate and water scarcity make agriculture, livestock and ecosystems highly climate-sensitive; long-term resilience depends on water security and sustainable land management.",
+    "strategies": [
+      {
+        "sector": "Seven priority sectors in the original RAPCC.",
+        "strategy": "Improve water and livelihood security while promoting sustainable land, energy and ecosystem management.",
+        "action": "Water conservation and efficiency; drought-resilient agriculture; livestock adaptation; renewable energy; ecosystem restoration; resilient health/disaster systems.",
+        "intervention": "Rainwater harvesting; watershed development; drought-resilient crops; efficient irrigation; solar energy; rangeland/desert ecosystem management.",
+        "info": "MoEFCC identifies the RAPCC v1.0 as released 4 September 2014; a revised plan should be substituted once formally approved/listed. | Official Rajasthan SAPCC 1.0 reports 1990/1995 totals; revised 2022 SAPCC states 2018–19 is the base year for historical emission profiling."
+      }
+    ]
+  },
+  {
+    "city": "Sikkim",
+    "lat": 27.3389,
+    "lng": 88.6065,
+    "type": "state",
+    "iterations": "1",
+    "year": "2012",
+    "vision": "Climate-resilient sustainable development that protects the fragile Himalayan environment and ecosystem services.",
+    "goals": "Strengthen water and agriculture resilience; improve energy efficiency; protect forests and biodiversity; climate-proof rural and urban habitats.",
+    "organizations": "Department of Science & Technology; High Level Coordination Committee; GIZ; state departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Sikkim-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Water; Agriculture & Horticulture; Energy Efficiency; Urban & Rural Habitats; Forests & Biodiversity",
+    "perCapita": "",
+    "climateRisks": "Temperature rise; shifting rainfall; glacier/water-system sensitivity; landslides; biodiversity and ecosystem stress",
+    "riskFindings": "The steep Himalayan terrain and changing temperature/rainfall patterns create risks for water, agriculture, forests, settlements and infrastructure.",
+    "strategies": [
+      {
+        "sector": "Five working groups/sectors in SAPCC v1.0.",
+        "strategy": "Protect Himalayan ecosystems and strengthen climate resilience of water, agriculture, energy and habitats.",
+        "action": "Improve watershed and spring management; climate-resilient agriculture/horticulture; energy efficiency; forest and biodiversity conservation; resilient settlements.",
+        "intervention": "Spring/watershed restoration; resilient crops; energy efficiency; forest conservation; slope/landslide management; resilient rural/urban infrastructure.",
+        "info": "MoEFCC profile notes increasing temperatures and shifting seasonal rainfall across 2030s, 2050s and 2080s projections."
+      }
+    ]
+  },
+  {
+    "city": "Tamil Nadu",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "type": "state",
+    "iterations": "1",
+    "year": "2015",
+    "vision": "Climate-resilient development under Vision 2023, with sustainable agriculture, water, ecosystems, energy and habitats.",
+    "goals": "Strengthen coastal and water resilience; promote sustainable agriculture and biodiversity; expand renewable energy and energy efficiency; improve sustainable habitat and climate knowledge.",
+    "organizations": "Department of Environment, Government of Tamil Nadu; State Climate Change Cell; state departments; technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Tamilnadu-Final-report-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "173 MtCO2e",
+    "sectorContribution": "Power sector contributes 67%",
+    "perCapita": "",
+    "climateRisks": "Cyclones; sea-level rise; coastal flooding/salinity; extreme rainfall; heat; drought/water stress",
+    "riskFindings": "Long coastline is exposed to cyclones, sea-level rise and salinity; climate projections indicate rising temperatures, changing monsoon patterns and more extreme rainfall.",
+    "strategies": [
+      {
+        "sector": "Seven focus areas in the SAPCC framework; revised SAPCC 2.0 is associated with the 2020–2030 period.",
+        "strategy": "Integrate climate resilience and low-carbon development across water, agriculture, coasts, energy, habitats and knowledge systems.",
+        "action": "Strengthen coastal protection; water conservation; climate-resilient agriculture; forest/biodiversity conservation; renewable energy and efficiency; sustainable habitat and knowledge systems.",
+        "intervention": "Coastal/mangrove restoration; rainwater harvesting; resilient crops; renewable energy; efficient buildings; sustainable urban planning; climate information systems.",
+        "info": "MoEFCC profile records the original plan's seven focus areas; revised-plan status should be read alongside the current Tamil Nadu Climate Change Mission materials. | Tamil Nadu Climate Change Mission material cited by UN-Habitat reports 173 MtCO2e and 67% power-sector contribution for the state."
+      }
+    ]
+  },
+  {
+    "city": "Telangana",
+    "lat": 17.4065,
+    "lng": 78.4772,
+    "type": "state",
+    "iterations": "1",
+    "year": "2017",
+    "vision": "Climate-resilient development suited to a semi-arid state, integrating adaptation with sustainable economic development.",
+    "goals": "Reduce drought and heat vulnerability; strengthen water, agriculture and forests; improve urban and infrastructure resilience; promote clean energy and climate knowledge.",
+    "organizations": "Environment Protection Training & Research Institute (EPTRI); Department of Environment, Forests, Science & Technology; state line departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Telangana-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture & Allied; Forestry & Biodiversity; Energy; Industries/Mining; Transport; Health; Urban Development; Tourism; Rural Development; Climate Research",
+    "perCapita": "",
+    "climateRisks": "Drought; heatwaves; floods; changing monsoon; groundwater stress; vector- and water-borne disease",
+    "riskFindings": "Telangana is semi-arid with recurring drought and heatwaves; Hyderabad has experienced urban flooding; groundwater-dependent agriculture is vulnerable to declining water tables.",
+    "strategies": [
+      {
+        "sector": "Ten sectors identified in the original SAPCC.",
+        "strategy": "Strengthen water and agricultural resilience while improving urban systems, ecosystems, health and low-carbon energy.",
+        "action": "Restore tanks and watersheds; climate-resilient agriculture; expand renewable energy and efficiency; improve urban drainage; protect forests; strengthen health and research.",
+        "intervention": "Mission Kakatiya/tank restoration; micro-irrigation; drought/flood-resilient crops; Haritha Haram/afforestation; LED/energy efficiency; urban drainage and heat action.",
+        "info": "MoEFCC profile confirms the plan was prepared after Telangana's 2014 bifurcation and lists ten sectors."
+      }
+    ]
+  },
+  {
+    "city": "Tripura",
+    "lat": 23.8315,
+    "lng": 91.2868,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient and low-carbon development aligned with NDCs and SDGs.",
+    "goals": "Reduce vulnerability of agriculture, forests, water, health and settlements; improve renewable energy and efficiency; strengthen ecosystem and disaster resilience.",
+    "organizations": "State climate-change institutional framework; Department of Forest/Environment; line departments; technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/tripura-sapcc-2.0.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Forests & Biodiversity; Water; Energy; Sustainable Habitat; Health; Strategic Knowledge; Disaster Management",
+    "perCapita": "",
+    "climateRisks": "Extreme rainfall/floods; drought; heat; forest and biodiversity stress; agriculture and livelihood risks",
+    "riskFindings": "SAPCC 2.0 uses IPCC AR5 vulnerability methodology and prioritises adaptation and mitigation across eight state sectors/missions.",
+    "strategies": [
+      {
+        "sector": "83 prioritised actions: 44 adaptation, 34 mitigation and 5 both.",
+        "strategy": "Integrate climate resilience and emissions reduction into state development and sectoral programmes.",
+        "action": "Climate-resilient agriculture; water conservation; forest/biodiversity protection; clean energy; resilient habitat; climate-health and disaster preparedness.",
+        "intervention": "Agroforestry; watershed management; renewable energy; energy efficiency; ecosystem restoration; resilient infrastructure and early warning.",
+        "info": "MoEFCC profile records SAPCC 2.0 for 2021–2030 and the 83-action portfolio."
+      }
+    ]
+  },
+  {
+    "city": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "type": "state",
+    "iterations": "2",
+    "year": "2024",
+    "vision": "Climate-resilient, sustainable and low-carbon development aligned with national missions, NDCs and SDGs.",
+    "goals": "Reduce vulnerability to heat, floods, drought and water stress; strengthen agriculture, forests and health; improve energy, transport and urban resilience; mainstream climate action.",
+    "organizations": "Department of Environment, Forest & Climate Change; Directorate of Environment; state departments and technical partners.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/uttar-pradesh-sapcc-2.0.pdf",
+    "baseYear": "2005–2015",
+    "totalEmissions": "102.5 MtCO2e (2005); 163.9 MtCO2e (2015)",
+    "sectorContribution": "2015: electricity generation 123.80 MtCO2e; residential 13.69; commercial 1.03; agriculture 4.93; transport 20.20",
+    "perCapita": "0.57 tCO2e/person (2005); 0.77 tCO2e/person (2015)",
+    "climateRisks": "Heat; floods; drought; rainfall variability; water stress; air pollution/health; agricultural vulnerability",
+    "riskFindings": "Projected warming is substantial; near-term rainfall is projected to decline under both RCPs; high dependence on the monsoon increases agriculture and water risks.",
+    "strategies": [
+      {
+        "sector": "Eight State Missions, 39 strategies and 179 actions; 29% mitigation, 59% adaptation and 12% both.",
+        "strategy": "Combine large-scale adaptation with mitigation across energy, agriculture, water, transport, habitat and ecosystems.",
+        "action": "Climate-resilient agriculture and water management; clean energy and efficiency; resilient urban/transport systems; ecosystem restoration; health and disaster preparedness.",
+        "intervention": "Efficient irrigation; crop diversification; renewable energy; clean mobility; urban greening; watershed/river restoration; heat-health and disaster systems.",
+        "info": "MoEFCC reports total SAPCC 2.0 budget of ₹1,12,204.79 crore, with a reported financing gap. | Government of Uttar Pradesh climate knowledge portal reproduces GHG Platform India estimates for 2005–2015."
+      }
+    ]
+  },
+  {
+    "city": "Uttarakhand",
+    "lat": 30.0668,
+    "lng": 79.0193,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Climate-resilient development that protects Himalayan ecosystems, livelihoods and infrastructure.",
+    "goals": "Reduce disaster and climate risk; strengthen agriculture, forests, water, livestock, health, energy and tourism resilience; climate-proof transport and urban development.",
+    "organizations": "State Forest Department; State Council for Climate Change; 11 sectoral Working Groups; UNDP; state departments.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/Uttarakhand-SAPCC-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Forests; Water Resources; Livestock & Animal Husbandry; Health; Industry; Disaster; Energy; Roads & Transport; Urban Development; Tourism",
+    "perCapita": "",
+    "climateRisks": "Glacier retreat; GLOFs; landslides; floods; cloudbursts; forest fires; warming; changing rainfall",
+    "riskFindings": "The 2013 flood disaster is a major reference point; Himalayan projections indicate warming and rainfall changes, with potential increases in sediment yield and slope hazards.",
+    "strategies": [
+      {
+        "sector": "11 sectoral Working Groups in the original UAPCC.",
+        "strategy": "Build resilience of Himalayan ecosystems, livelihoods and infrastructure while strengthening disaster preparedness and sustainable development.",
+        "action": "Strengthen spring/water systems; climate-resilient agriculture/livestock; forest and fire management; resilient roads/towns; disaster preparedness; sustainable tourism.",
+        "intervention": "Spring/watershed restoration; resilient crops/livestock; forest restoration/fire control; resilient roads and settlements; early warning; climate-smart tourism.",
+        "info": "MoEFCC profile records the original UAPCC and its 11-sector structure; updated revision status should be checked when formally approved."
+      }
+    ]
+  },
+  {
+    "city": "West Bengal",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "type": "state",
+    "iterations": "1",
+    "year": "2014",
+    "vision": "Climate-resilient development protecting the Sundarbans, Himalayan ecosystems, agriculture and vulnerable livelihoods.",
+    "goals": "Reduce risks from sea-level rise, cyclones, floods and extreme rainfall; protect Sundarbans and biodiversity; improve water, agriculture, health and resilient habitats.",
+    "organizations": "Department of Environment & Climate Change, Government of West Bengal; state line departments; State Steering Committee.",
+    "documentLink": "https://napccindia.moef.gov.in/resources/pdfs/West-Bengal-compressed.pdf",
+    "baseYear": "",
+    "totalEmissions": "",
+    "sectorContribution": "Agriculture; Water; Forests & Biodiversity; Sundarbans/Coastal; Habitat; Health; Energy; Transport; Industry; Strategic Knowledge",
+    "perCapita": "",
+    "climateRisks": "Sea-level rise; cyclones/storm surge; coastal flooding; river floods; extreme rainfall; drought; biodiversity stress",
+    "riskFindings": "Sundarbans face sea-level-rise-driven inundation and cyclone risk; Darjeeling hills and Gangetic plains have distinct vulnerabilities; arsenic/fluoride contamination and climate-sensitive livelihoods add risk.",
+    "strategies": [
+      {
+        "sector": "About ten climate-sensitive sectors organised around NAPCC missions.",
+        "strategy": "Protect coastal and Himalayan ecosystems and climate-sensitive livelihoods while strengthening resilient agriculture, water, health and habitats.",
+        "action": "Sundarbans/mangrove protection; cyclone and flood resilience; climate-resilient agriculture; water security; biodiversity conservation; resilient health and housing.",
+        "intervention": "Mangrove restoration; embankment/coastal protection; resilient agriculture; water-quality management; early warning and disaster shelters; ecosystem-based adaptation.",
+        "info": "MoEFCC profile states the first part was submitted in April 2011 and the second version added Habitats, Sundarbans and Darjeeling Himalayas."
+      }
+    ]
   }
 ]
