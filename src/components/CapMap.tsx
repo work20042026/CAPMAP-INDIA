@@ -42,11 +42,23 @@ export function CapMap({
       scrollWheelZoom
       className="h-full w-full"
       style={{ height: "100%", width: "100%" }}
+      center={[22.5, 80]}
+      zoom={5}
+      minZoom={4}
+      maxBounds={[
+        [6, 67],
+        [38, 98],
+      ]}
+      maxBoundsViscosity={1.0}
+      scrollWheelZoom
+      className="h-full w-full"
+      style={{ height: "100%", width: "100%" }}
     >
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>'
-        url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+        attribution='Tiles &copy; Esri &mdash; Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, and the GIS User Community'
+        url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}"
       />
+
       {entries.map((e) => (
         <Marker
           key={e.city}
